@@ -9,7 +9,7 @@
 
 Loan default prediction is a critical tool for financial institutions to assess the creditworthiness of borrowers. By predicting the likelihood of default, banks and lenders can make informed decisions, minimize risks, and improve profitability. This project utilizes machine learning to build a robust prediction system for classifying loans as defaults or non-defaults.
 
-## ✅ What We Have Done
+## ✅ What I Have Done
 
 ### 🔍 **1. Data Preprocessing**
    - Cleaned and transformed the data, handling both numerical and categorical features.
